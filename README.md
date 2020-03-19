@@ -1,0 +1,2 @@
+# Foliage-Canopy-of-Apple-Trees-in-Formal-Architecture
+This is a set of image/label (MATLAB-based) data of foliage canopy of apple trees in formal architecture. Images were acquired in 2018 apple harvesting season near Prosser, WA (USA) using Kinect V2 sensor (with background removed). The apple cultivars include: Fuji (674 images), Envy (58 images), Scifresh (38 images), and Pink Lady (15 images).
